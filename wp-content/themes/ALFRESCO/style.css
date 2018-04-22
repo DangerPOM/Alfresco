@@ -71,45 +71,6 @@ nav .button-collapse {
     margin-top: 20px;
 }
 
-
-
-@media only screen and (max-width: 992px) {
-    .navbar-fixed {
-        z-index: 994;
-    }
-    #sidenav-overlay {
-        z-index: 993;
-    }
-    .menu {
-        display: none;
-    }
-    .custom-logo {
-        margin: 0 40%;
-    }
-}
-
-@media only screen and (max-width: 741px) {
-    .custom-logo {
-        margin: 0 35%;
-    }
-    nav {
-        height: 64px;
-        line-height: 64px;
-    }
-}
-
-@media only screen and (max-width: 473px) {
-    .custom-logo {
-        margin: 0 30%;
-    }
-}
-
-@media only screen and (max-width: 359px) {
-    .custom-logo {
-        display: none;
-    }
-}
-
 .nav-wrapper .sub-menu {
     position: absolute;
     background: #fff;
@@ -156,3 +117,41 @@ nav .button-collapse {
     color: rgba(0,0,0,0.4);
     transition: all .05s ease .05s;
 }
+
+@media only screen and (max-width: 992px) {
+    .navbar-fixed {
+        z-index: 994;
+    }
+    #sidenav-overlay {
+        z-index: 993;
+    }
+    .right {
+        display: none;
+    }
+    .custom-logo {
+        margin: 0 40%;
+    }
+}
+
+@media only screen and (max-width: 741px) {
+    .custom-logo {
+        margin: 0 35%;
+    }
+    nav {
+        height: 64px;
+        line-height: 64px;
+    }
+}
+
+@media only screen and (max-width: 473px) {
+    .custom-logo {
+        margin: 0 30%;
+    }
+}
+
+@media only screen and (max-width: 359px) {
+    .custom-logo {
+        display: none;
+    }
+}
+
