@@ -1,0 +1,837 @@
+# Translation of Themes - Corpbiz in Russian
+# This file is distributed under the same license as the Themes - Corpbiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-05 16:31:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Corpbiz\n"
+
+#. Description of the plugin/theme
+msgid "Corpbiz Theme is very powerful yet easy to use and customize. This theme is a creative responsive WordPress theme for many purposes. Already thousands of users loving this theme because it is designed for multiple businesses like startup, agency, freelance, blog, startup, portfolio, education, corporate and any kind of business. The theme is developed using Bootstrap 3 CSS framework that makes it friendly for all the devices like mobiles, tablets, laptops etc. In Corpbiz Lite, you can easily set Featured Banner / Slide, Site Info Content, Service, Portfolio, Latest News and 3 column widgetized footer. You will get various page templates like Homepage, Full Width Page and Blog Left Sidebar template. In the premium version, you will get Caption Slider, Site Info, Services, Project Slider, Portfolio’s, Clients / Sponsor, Theme Support Section, Latest News, Footer Callout and 3 Columns Footer. You will find various page templates like About, Service, Portfolio, Contact, Blog and Well styled Core Gallery. The theme has support for various plugin like WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customize to start customizing. Check premium version theme demo at http://webriti.com/demo/wp/corpbiz"
+msgstr "Corpbiz - очень мощная тема, но легкая в использовании и настройке. Тысячи пользователей уже оценили по достоинству эту тему, потому что она хорошо спроектирована для таких бизнесов, как стартапы, агентства, фриланс, блог, портфолио, образование, корпоративные сайты и любого другого бизнеса. Тема создана с использованием Bootstrap 3, что делает ее отлично работающей на любом устройстве. В теме Corpbiz Lite вы можете легко установить избранный баннер/слайд, информацию о сайте, услуги, портфолио, последние новости и подвал из 3 колонок. Вы также получите несколько шаблонов: главная страница, на всю ширину, блог с левой боковой колонкой. В премиум версии вы получите слайдер, информацию о сайте, услуги, слайдер проектов, портфолио, клиентов или спонсоров, последние новости, блок связи в подвале и подвал с 3 колонками. Вы найдете несколько шаблонов страниц (о нас, услуги, портфолио, контакты, блог и хорошо стилизованную стандартную галерею картинок). Тема поддерживает популярные плагины WPML, Polylang и JetPack Gallery. Вы можете настроить ее на странице Кастомизатора (Дизайн - Настроить в админке). Посмотрите на премиум версию темы: http://webriti.com/demo/wp/corpbiz"
+
+#. Theme Name of the plugin/theme
+msgid "Corpbiz"
+msgstr "Corpbiz"
+
+#: functions/customizer/customizer_home_page.php:1331
+msgid "What our clients says"
+msgstr "Что говорят наши клиенты"
+
+#: functions.php:67
+msgid "Footer Menu"
+msgstr "Меню в подвале"
+
+#: functions/widget/custom-sidebar.php:37
+#: functions/widget/custom-sidebar.php:39
+msgid "Footer sidebar three"
+msgstr "Боковая колонка подвала 3"
+
+#: functions/widget/custom-sidebar.php:27
+#: functions/widget/custom-sidebar.php:29
+msgid "Footer sidebar two"
+msgstr "Боковая колонка подвала 2"
+
+#: functions/widget/custom-sidebar.php:17
+#: functions/widget/custom-sidebar.php:19
+msgid "Footer sidebar one"
+msgstr "Боковая колонка подвала 1"
+
+#: functions/widget/custom-sidebar.php:7 functions/widget/custom-sidebar.php:9
+msgid "Sidebar widget area"
+msgstr "Область виджетов в боковой колонке"
+
+#: functions/customizer/customizer_typography.php:305
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+#: functions/customizer/customizer_typography.php:195
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: functions/customizer/customizer_typography.php:138
+msgid "Menu"
+msgstr "Меню"
+
+#: functions/customizer/customizer_typography.php:82
+msgid "General paragraph"
+msgstr "Общие настройки"
+
+#: functions/customizer/customizer_typography.php:11
+msgid "Typography settings"
+msgstr "Настройки типографики"
+
+#: functions/customizer/customizer_layout_manager.php:42
+#: functions/customizer/customizer_layout_manager.php:47
+msgid "Theme layout manager"
+msgstr "Менеджер макета темы"
+
+#: functions/customizer/customizer_layout_manager.php:34
+msgid "Note"
+msgstr "Примечание"
+
+#: functions/customizer/customizer_layout_manager.php:26
+msgid "Disable"
+msgstr "Выключить"
+
+#: functions/customizer/customizer_home_page.php:1456
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: functions/customizer/customizer_home_page.php:1028
+#: functions/customizer/customizer_home_page.php:1094
+#: functions/customizer/customizer_home_page.php:1162
+#: functions/customizer/customizer_home_page.php:1231
+msgid "Icon Link"
+msgstr "Ссылки иконки"
+
+#: functions/customizer/customizer_home_page.php:1006
+#: functions/customizer/customizer_home_page.php:1072
+#: functions/customizer/customizer_home_page.php:1140
+#: functions/customizer/customizer_home_page.php:1209
+msgid "Image"
+msgstr "Изображение"
+
+#: functions/customizer/customizer_home_page.php:525
+#: functions/customizer/customizer_home_page.php:615
+#: functions/customizer/customizer_home_page.php:706
+#: functions/customizer/customizer_home_page.php:797
+msgid "Link"
+msgstr "Ссылка"
+
+#: functions/customizer/customizer_home_page.php:506
+#: functions/customizer/customizer_home_page.php:596
+#: functions/customizer/customizer_home_page.php:686
+#: functions/customizer/customizer_home_page.php:778
+#: functions/customizer/customizer_home_page.php:1500
+#: functions/customizer/customizer_home_page.php:1589
+#: functions/customizer/customizer_home_page.php:1679
+msgid "Icon"
+msgstr "Иконка"
+
+#: functions/customizer/customizer_home_page.php:453
+msgid "Enable service section on homepage."
+msgstr "Включить секцию услуг на главной страницу"
+
+#: functions/customizer/customizer_home_page.php:326
+msgid "Title Two"
+msgstr "Заголовок 2"
+
+#: functions/customizer/customizer_home_page.php:244
+#: functions/customizer/customizer_home_page.php:382
+#: functions/customizer/customizer_home_page.php:424
+#: functions/customizer/customizer_home_page.php:1574
+#: functions/customizer/customizer_home_page.php:1664
+#: functions/customizer/customizer_home_page.php:1754
+#: functions/customizer/customizer_home_page.php:1872
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: functions/customizer/customizer_home_page.php:227
+#: functions/customizer/customizer_home_page.php:354
+#: functions/customizer/customizer_home_page.php:396
+#: functions/customizer/customizer_home_page.php:1545
+#: functions/customizer/customizer_home_page.php:1634
+#: functions/customizer/customizer_home_page.php:1724
+#: functions/customizer/customizer_home_page.php:1843
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: functions/customizer/customizer_home_page.php:48
+msgid "Homepage section setting"
+msgstr "Настройки секции главная страница"
+
+#: functions/customizer/customizer-template.php:493
+msgid "Email"
+msgstr "Email"
+
+#: functions/customizer/customizer-template.php:477
+msgid "Phone"
+msgstr "Телефон"
+
+#: functions/customizer/customizer-template.php:461
+msgid "Address two"
+msgstr "Адрес две"
+
+#: functions/customizer/customizer-template.php:445
+msgid "Address one"
+msgstr "Адрес одного"
+
+#: functions/customizer/customizer-template.php:410
+#: functions/customizer/customizer_home_page.php:195
+#: functions/customizer/customizer_home_page.php:471
+#: functions/customizer/customizer_home_page.php:559
+#: functions/customizer/customizer_home_page.php:649
+#: functions/customizer/customizer_home_page.php:742
+#: functions/customizer/customizer_home_page.php:832
+#: functions/customizer/customizer_home_page.php:965
+#: functions/customizer/customizer_home_page.php:1337
+#: functions/customizer/customizer_home_page.php:1470
+#: functions/customizer/customizer_home_page.php:1515
+#: functions/customizer/customizer_home_page.php:1604
+#: functions/customizer/customizer_home_page.php:1694
+#: functions/customizer/customizer_home_page.php:1813
+#: functions/customizer/customizer_home_page.php:1899
+msgid "Title"
+msgstr "Заголовок"
+
+#: functions/customizer/customizer-template.php:331
+msgid "Contact page setting"
+msgstr "Настройки контактной страницы"
+
+#: functions/customizer/customizer-template.php:322
+msgid "Enable blog meta"
+msgstr "Включить мета-данные в блог"
+
+#: functions/customizer/customizer-template.php:157
+msgid "Service page setting"
+msgstr "Настройки страницы услуг"
+
+#: functions/customizer/customizer-template.php:15
+msgid "About us page setting"
+msgstr "Настройки страницы О Нас"
+
+#: content.php:21 search.php:28
+msgid "Posted by"
+msgstr "Автор"
+
+#: comments.php:85
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: functions/customizer/customizer_home_page.php:312
+msgid "Title One"
+msgstr "Заголовок 1"
+
+#: comments.php:83
+msgid "Logout"
+msgstr "Выход"
+
+#: comments.php:63
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Вы должны быть <a href=\"%s\">авторизованы</a>, чтобы оставить комментарий."
+
+#: 404.php:21
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: functions/customizer/customizer-template.php:371 theme_setup_data.php:178
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+#: functions/customizer/customizer-template.php:403 theme_setup_data.php:176
+msgid "Contact info"
+msgstr "Контактная информация"
+
+#: functions/customizer/customizer_home_page.php:1807 theme_setup_data.php:161
+msgid "Get your app ideas transformed into reality"
+msgstr "Реализуйте ваши идем в готовые решения"
+
+#: theme_setup_data.php:171
+msgid "lets see what we hear from our valuable clients"
+msgstr "Давайте посмотрим, что мы слышим от наших уважаемых клиентов"
+
+#: theme_setup_data.php:170
+msgid "What our clients say"
+msgstr "Что говорят наши клиенты"
+
+#: functions/customizer/customizer_home_page.php:1688 theme_setup_data.php:147
+msgid "Get updated"
+msgstr "Получайте обновления"
+
+#: functions/customizer/customizer_home_page.php:1598 theme_setup_data.php:140
+msgid "Check our forum"
+msgstr "Проверьте наш форум"
+
+#: functions/customizer/customizer_home_page.php:1509 theme_setup_data.php:133
+msgid "Need Support"
+msgstr "Нужна помощь?"
+
+#: functions/customizer/customizer_home_page.php:1479 theme_setup_data.php:129
+msgid "24+7 hours support by us"
+msgstr "Поддержка 24/7 часов"
+
+#: functions/customizer/customizer_home_page.php:1464 theme_setup_data.php:128
+msgid "We are here to help you"
+msgstr "Мы здесь для того, чтобы помочь вам"
+
+#: functions/customizer/customizer_home_page.php:189 theme_setup_data.php:36
+msgid "Built your website"
+msgstr "Построил свой сайт"
+
+#: functions.php:55
+msgid "Page"
+msgstr "Страница"
+
+#: functions/customizer/customizer_typography.php:129
+#: functions/customizer/customizer_typography.php:185
+#: functions/customizer/customizer_typography.php:241
+#: functions/customizer/customizer_typography.php:296
+#: functions/customizer/customizer_typography.php:352
+#: functions/customizer/customizer_typography.php:408
+#: functions/customizer/customizer_typography.php:464
+msgid "Font style"
+msgstr "Стиль шрифта"
+
+#: functions/customizer/customizer_typography.php:113
+#: functions/customizer/customizer_typography.php:169
+#: functions/customizer/customizer_typography.php:226
+#: functions/customizer/customizer_typography.php:281
+#: functions/customizer/customizer_typography.php:336
+#: functions/customizer/customizer_typography.php:392
+#: functions/customizer/customizer_typography.php:448
+msgid "Font family"
+msgstr "Семейство шрифта"
+
+#: functions/customizer/customizer_typography.php:96
+#: functions/customizer/customizer_typography.php:152
+#: functions/customizer/customizer_typography.php:209
+#: functions/customizer/customizer_typography.php:264
+#: functions/customizer/customizer_typography.php:319
+#: functions/customizer/customizer_typography.php:375
+#: functions/customizer/customizer_typography.php:431
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: functions/customizer/customizer_typography.php:63
+msgid "Enable custom typography"
+msgstr "Включить пользовательскую типографию"
+
+#: functions/customizer/customizer_typography.php:29
+msgid "Use typography to chnage font size, font family etc. than upgrade to pro"
+msgstr "Используйте типографику для изменения шрифта, обновитесь до про"
+
+#: functions/customizer/customizer_typography.php:16
+msgid "Typography Enable / Disable"
+msgstr "Типографика: включить / выключить"
+
+#: functions/customizer/customizer_theme_style.php:123
+msgid "Skin color"
+msgstr "Цветовая гамма"
+
+#: functions/customizer/customizer_theme_style.php:104
+msgid "Skin color enable"
+msgstr "Включить цветовую гамму"
+
+#: functions/customizer/customizer_theme_style.php:74
+msgid "Predefined colors"
+msgstr "Предустановленные цвета"
+
+#: functions/customizer/customizer_theme_style.php:40
+msgid "Use below default color skin & custom color skin than upgrade to pro"
+msgstr "Используйте цветовую гамму по умолчанию или создайте свою, обновитесь до про"
+
+#: functions/customizer/customizer_theme_style.php:27
+msgid "Theme style setting"
+msgstr "Настройки стилей темы"
+
+#: functions/customizer/customizer_texonomy_archive.php:63
+msgid "Number of taxonomy archive portfolio"
+msgstr "Количество таксономии архива портфолио"
+
+#: functions/customizer/customizer_texonomy_archive.php:29
+msgid "Add taxonomy portfolio category template than upgrade to pro"
+msgstr "Добавьте шаблон категорий проектов, обновитесь до про"
+
+#: functions/customizer/customizer_texonomy_archive.php:11
+#: functions/customizer/customizer_texonomy_archive.php:16
+msgid "Texonomy archive portfolio"
+msgstr "Архив таксономии портфолио"
+
+#: functions/customizer/customizer_layout_manager.php:62
+msgid "Use homepage layout section setting drag & drop than upgrade to pro"
+msgstr "Добавьте настройки секции макета главной страницы, обновитесь до про"
+
+#: functions/customizer/customizer_layout_manager.php:34
+msgid "By default all the section are enable on homepage. If you do not want to display any section just drag that section to the disabled box."
+msgstr "По умолчанию все секции включены на главной странице. Если вы не хотите отображать какую-то секцию, просто перенесите ее в область отключённых секций."
+
+#: functions/customizer/customizer_layout_manager.php:33
+msgid "Slider section always top on the home page"
+msgstr "Секция слайдера всегда вверху на главной странице"
+
+#: functions/customizer/customizer_layout_manager.php:18
+#: functions/customizer/customizer_layout_manager.php:111
+msgid "Enable"
+msgstr "Включить"
+
+#: functions/customizer/customizer_typography.php:361
+msgid "Callout Title"
+msgstr "Заголовок контактного блока"
+
+#: functions/customizer/customizer_home_page.php:1779
+msgid "Want to add footer callout than upgrade to pro"
+msgstr "Для добавления в подвал блока с контактами обновитесь до про"
+
+#: functions/customizer/customizer_home_page.php:1764
+msgid "Footer callout"
+msgstr "Контакты в подвале"
+
+#: functions/customizer/customizer-template.php:426
+#: functions/customizer/customizer_home_page.php:209
+#: functions/customizer/customizer_home_page.php:340
+#: functions/customizer/customizer_home_page.php:488
+#: functions/customizer/customizer_home_page.php:577
+#: functions/customizer/customizer_home_page.php:667
+#: functions/customizer/customizer_home_page.php:760
+#: functions/customizer/customizer_home_page.php:850
+#: functions/customizer/customizer_home_page.php:979
+#: functions/customizer/customizer_home_page.php:1352
+#: functions/customizer/customizer_home_page.php:1485
+#: functions/customizer/customizer_home_page.php:1530
+#: functions/customizer/customizer_home_page.php:1619
+#: functions/customizer/customizer_home_page.php:1709
+#: functions/customizer/customizer_home_page.php:1828
+#: functions/customizer/customizer_home_page.php:1912
+msgid "Description"
+msgstr "Описание"
+
+#: functions/customizer/customizer_home_page.php:1425
+msgid "Want to add theme support setting section than upgrade to pro"
+msgstr "Для добавления дополнительных опций темы обновитесь до про"
+
+#: functions/customizer/customizer_home_page.php:1410
+msgid "Theme support settings"
+msgstr "Настройки поддержки темы"
+
+#: functions/customizer/customizer_home_page.php:1383
+msgid "Click here to add client"
+msgstr "Нажмите здесь, чтобы добавить клиента"
+
+#: functions/customizer/customizer_home_page.php:1367
+msgid "Number of client on client section"
+msgstr "Количество клиентов в секции клиентов"
+
+#: functions/customizer/customizer_home_page.php:1303
+msgid "Want to add client than upgrade to pro"
+msgstr "Для добавления клиентов обновитесь до про"
+
+#: functions/customizer/customizer_home_page.php:1289
+msgid "Client settings"
+msgstr "Настройки клиента"
+
+#: functions/customizer/customizer_home_page.php:906
+msgid "Want to add project slider than upgrade to pro"
+msgstr "Для добавления слайдера проектов обновитесь до про"
+
+#: functions/customizer/customizer_home_page.php:892
+msgid "Project slider settings"
+msgstr "Настройки слайдера проекта"
+
+#: functions/customizer/customizer_home_page.php:261
+#: functions/customizer/customizer_home_page.php:368
+#: functions/customizer/customizer_home_page.php:410
+#: functions/customizer/customizer_home_page.php:542
+#: functions/customizer/customizer_home_page.php:632
+#: functions/customizer/customizer_home_page.php:724
+#: functions/customizer/customizer_home_page.php:814
+#: functions/customizer/customizer_home_page.php:1045
+#: functions/customizer/customizer_home_page.php:1111
+#: functions/customizer/customizer_home_page.php:1179
+#: functions/customizer/customizer_home_page.php:1248
+#: functions/customizer/customizer_home_page.php:1560
+#: functions/customizer/customizer_home_page.php:1649
+#: functions/customizer/customizer_home_page.php:1739
+#: functions/customizer/customizer_home_page.php:1858
+msgid "Open link in new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: functions/customizer/customizer_home_page.php:275
+msgid "Add more slider than upgrade to pro"
+msgstr "Для добавления слайдеров обновитесь до про"
+
+#: functions/customizer/customizer_home_page.php:203 theme_setup_data.php:37
+msgid "Corpbiz is extremely clean in each code line, intensely awesome in very homepage, supper easy to use, highly flexible with responsive feature."
+msgstr "Corpbiz тема является чрезвычайно чистой в каждой строке кода, с отличной домашней страницей, очень проста в использовании и гибкая."
+
+#: functions/customizer/customizer_home_page.php:160
+msgid "Slider Image one"
+msgstr "Картинка 1 слайдера"
+
+#: functions/customizer/customizer_home_page.php:149
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: functions/customizer/customizer_home_page.php:135
+msgid "Google tracking code"
+msgstr "Код отслеживания Google"
+
+#: functions/customizer/customizer_home_page.php:66
+msgid "Enable Logo Text"
+msgstr "Показать текст логотипа"
+
+#: functions/customizer/customizer_footer_customization.php:24
+msgid "<p>All Rights Reserved by Corpbiz. Designed and Developed by <a href=\"%1$s\" target=\"_blank\">WordPress Theme</a><p>"
+msgstr "<p>Все права защищещны Corpbiz. Дизайн и разработка <a href=\"%1$s\" target=\"_blank\">темы для WordPress</a><p>"
+
+#: functions/customizer/customizer-template.php:547
+msgid "Hide footer contact callout section"
+msgstr "Спрятать секцию связи в подвале"
+
+#: functions/customizer/customizer-template.php:527
+msgid "Google map URL"
+msgstr "Google Map URL"
+
+#: functions/customizer/customizer-template.php:512
+msgid "Enable Google map in contact page"
+msgstr "Включить Google Карты контактной страницы"
+
+#: functions/customizer/customizer-template.php:395
+msgid "Enable contact info in contact page"
+msgstr "Включить контактную информацию на контактной странице"
+
+#: functions/customizer/customizer-template.php:378
+msgid "Contact us text"
+msgstr "Текст Свяжитесь с нами"
+
+#: functions/customizer/customizer-template.php:344
+msgid "Want to add contact page template than upgrade to pro"
+msgstr "Для добавления шаблона контактной страницы обновитесь до про"
+
+#: functions/customizer/customizer-template.php:285
+msgid "Want to add blog page template than upgrade to pro"
+msgstr "Для добавления шаблона блога вам надо обновиться до про"
+
+#: functions/customizer/customizer-template.php:272
+msgid "Blog page setting"
+msgstr "Настройки страницы блога"
+
+#: functions/customizer/customizer-template.php:263
+msgid "Hide footer callout section"
+msgstr "Спрятать секцию связи в подвале"
+
+#: functions/customizer/customizer-template.php:228
+msgid "Hide project slider section"
+msgstr "Спрятать секцию слайдера проектов"
+
+#: functions/customizer/customizer-template.php:172
+msgid "Want to add service page template than upgrade to pro"
+msgstr "Для добавления шаблона услуг вам надо обновиться до про"
+
+#: functions/customizer/customizer-template.php:146
+#: functions/customizer/customizer-template.php:245
+msgid "Hide client section"
+msgstr "Скрыть секцию клиентов"
+
+#: functions/customizer/customizer-template.php:114
+msgid "Click here to add team member"
+msgstr "Нажмите здесь, чтобы добавить члена команды"
+
+#: functions/customizer/customizer-template.php:101
+msgid "Team section title"
+msgstr "Заголовок секции команды"
+
+#: functions/customizer/customizer-template.php:94
+msgid "Our staff"
+msgstr "Наша команда"
+
+#: functions/customizer/customizer-template.php:85
+msgid "Hide team section"
+msgstr "Спрятать секцию сотрудников"
+
+#: functions/customizer/customizer-template.php:66
+#: functions/customizer/customizer-template.php:210
+msgid "Hide service section"
+msgstr "Скрыть секцию услуг"
+
+#: functions/customizer/customizer-template.php:30
+msgid "Want to add about page template than upgrade to pro"
+msgstr "Для добавления шаблона о нас вам надо обновиться до про"
+
+#: functions/customizer/customizer-template.php:8
+msgid "Template settings"
+msgstr "Настройки шаблона"
+
+#: functions/customizer/customizer_home_page.php:864
+msgid "Want to add more service than upgrade to pro"
+msgstr "Для добавления больше услуг вам надо обновиться до про"
+
+#: functions/customizer/customizer_home_page.php:1261
+msgid "Want to add more portfolios and categorization than upgrade to pro"
+msgstr "Для добавления большего количество проектов и категоризации вам надо обновиться до про"
+
+#: functions/customizer/customizer_home_page.php:951
+msgid "Enable portfolio section on homepage"
+msgstr "Включить секцию портфолио на главной странице"
+
+#: functions/customizer/customizer_pro.php:77
+msgid "The Pro Version gives you more opportunities to enhance your site and business. In order to create effective online presence one have to showcase their wide range of products, have to use contact us enquiry form, have to make effective about us page, have to introduce team members, etc etc . The pro version will give it all. Buy the pro version and give us a chance to serve you better."
+msgstr "ПРО версия дает вам больше возможностей для улучшения вашего сайта и бизнеса. Для создания эффективного присутствия в интернете необходимо показывать широкий набор продуктов, использовать контактные формы, создать эффективную страницу о компании, рассказать о команде и т.д. ПРО версия дает вам это все. Купите ПРО версию и дайте нам возможность более эффективно помочь вам."
+
+#: functions/customizer/customizer_pro.php:73
+msgid "DOCUMENTATION"
+msgstr "Документация"
+
+#: functions/customizer/customizer_pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "Добавьте свой отзыв"
+
+#: functions/customizer/customizer_home_page.php:108
+msgid "Enter Logo Height"
+msgstr "Введите высоту логотипа"
+
+#: functions/customizer/customizer_home_page.php:94
+msgid "Enter Logo Width"
+msgstr "Введите ширину логотипа"
+
+#: functions/customizer/customizer_home_page.php:122
+msgid "Site favicon"
+msgstr "Иконка сайта"
+
+#: functions/customizer/customizer_footer_customization.php:31
+msgid "Copyright text"
+msgstr "Текст копирайта"
+
+#: functions/customizer/customizer_footer_customization.php:11
+#: functions/customizer/customizer_footer_customization.php:16
+msgid "Footer copyright settings"
+msgstr "Настройки копирайта в подвале"
+
+#: functions/customizer/customizer_typography.php:417
+msgid "Callout Description"
+msgstr "Описание контактного блока"
+
+#: functions/customizer/customizer_home_page.php:1945
+msgid "Select number of post"
+msgstr "Выберите количество записей"
+
+#: comments.php:23
+msgid "at"
+msgstr "в"
+
+#: functions/customizer/customizer_home_page.php:1928
+msgid "Select category for latest blog"
+msgstr "Выберите рубрику для последних новостей"
+
+#: functions/customizer/customizer_home_page.php:1884
+msgid "Blog settings"
+msgstr "Настройки блога"
+
+#: functions/customizer/customizer_home_page.php:1893 theme_setup_data.php:156
+msgid "From blog"
+msgstr "Из блога"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Главная страница"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Вся ширина"
+
+#: functions/customizer/customizer_home_page.php:973 theme_setup_data.php:67
+msgid "We have successfully completed over 2500 projects in mobile and web. Here are few of them."
+msgstr "Мы успешно завершили более 2500 проектов в мобильной сфере и web. Вот несколько из них."
+
+#: tag.php:7
+msgid "Tag Archive %s"
+msgstr "Архив метки %s"
+
+#: searchform.php:2
+msgid "Search Here"
+msgstr "Ищите здесь"
+
+#: search.php:57
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Жаль, но ничего не соответствуют критериям вашего поиска. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#: search.php:54
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:14
+msgid "Search results for %s"
+msgstr "Результаты поиска для %s"
+
+#: functions.php:66
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Поиск"
+
+#: functions/customizer/customizer-template.php:33
+#: functions/customizer/customizer-template.php:176
+#: functions/customizer/customizer-template.php:288
+#: functions/customizer/customizer-template.php:348
+#: functions/customizer/customizer_home_page.php:278
+#: functions/customizer/customizer_home_page.php:867
+#: functions/customizer/customizer_home_page.php:909
+#: functions/customizer/customizer_home_page.php:1265
+#: functions/customizer/customizer_home_page.php:1306
+#: functions/customizer/customizer_home_page.php:1428
+#: functions/customizer/customizer_home_page.php:1782
+#: functions/customizer/customizer_layout_manager.php:66
+#: functions/customizer/customizer_pro.php:13
+#: functions/customizer/customizer_pro.php:20
+#: functions/customizer/customizer_texonomy_archive.php:33
+#: functions/customizer/customizer_theme_style.php:43
+#: functions/customizer/customizer_typography.php:33
+msgid "Upgrade to pro"
+msgstr "Обновитесь до PRO"
+
+#: functions/customizer/customizer_home_page.php:932
+msgid "Portfolio settings"
+msgstr "Настройки портфолио"
+
+#: functions/customizer/customizer_home_page.php:53
+msgid "Quick start"
+msgstr "Быстрый старт"
+
+#: functions/customizer/customizer_home_page.php:299
+msgid "Siteinfo setting"
+msgstr "Настройка информации о сайте"
+
+#: functions/customizer/customizer_home_page.php:390 theme_setup_data.php:52
+msgid "View portfolio"
+msgstr "Просмотреть портфолио"
+
+#: functions/customizer/customizer_home_page.php:320 theme_setup_data.php:48
+msgid "Sample pages"
+msgstr "Примеры страниц"
+
+#: functions/customizer/customizer_typography.php:250
+msgid "Service Title"
+msgstr "Название услуги"
+
+#: functions/customizer/customizer_home_page.php:433
+msgid "Service settings"
+msgstr "Настройки услуг"
+
+#: functions/customizer/customizer_home_page.php:823 theme_setup_data.php:101
+msgid "Clean minimal design"
+msgstr "Чистый минималистический дизайн"
+
+#: functions/customizer/customizer_home_page.php:733 theme_setup_data.php:95
+msgid "Great support"
+msgstr "Великолепная поддержка"
+
+#: functions/customizer/customizer_home_page.php:640 theme_setup_data.php:89
+msgid "Power full admin"
+msgstr "Мощная админка"
+
+#: functions/customizer/customizer_home_page.php:550 theme_setup_data.php:83
+msgid "Responsive design"
+msgstr "Отзывчивый дизайн"
+
+#: functions/customizer/customizer_home_page.php:462 theme_setup_data.php:76
+msgid "Our nice services"
+msgstr "Наши услуги"
+
+#: functions/customizer/customizer_home_page.php:1188
+#: functions/customizer/customizer_home_page.php:1194 theme_setup_data.php:122
+msgid "Portfolio four"
+msgstr "Портфолио 4"
+
+#: functions/customizer/customizer_home_page.php:1119
+#: functions/customizer/customizer_home_page.php:1125 theme_setup_data.php:117
+msgid "Portfolio three"
+msgstr "Портфолио 3"
+
+#: functions/customizer/customizer_home_page.php:1054
+#: functions/customizer/customizer_home_page.php:1060 theme_setup_data.php:112
+msgid "Portfolio two"
+msgstr "Портфолио 2"
+
+#: functions/customizer/customizer_home_page.php:987
+#: functions/customizer/customizer_home_page.php:993 theme_setup_data.php:107
+msgid "Portfolio one"
+msgstr "Портфолио 1"
+
+#: functions/customizer/customizer_home_page.php:959 theme_setup_data.php:66
+msgid "Our work speaks thousand words"
+msgstr "Наша работа говорит тысячу слов"
+
+#: functions/customizer/customizer_home_page.php:80
+msgid "Custom Logo"
+msgstr "Пользовательский логотип"
+
+#: functions/customizer/customizer_home_page.php:217
+#: functions/customizer/customizer_home_page.php:348
+#: functions/customizer/customizer_home_page.php:1539
+#: functions/customizer/customizer_home_page.php:1628
+#: functions/customizer/customizer_home_page.php:1718
+#: functions/customizer/customizer_home_page.php:1837
+#: functions/excerpt/excerpt.php:14 theme_setup_data.php:38
+#: theme_setup_data.php:50 theme_setup_data.php:135 theme_setup_data.php:142
+#: theme_setup_data.php:149 theme_setup_data.php:163
+msgid "Read More"
+msgstr "Прочитать больше"
+
+#: comments.php:88
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: comments.php:83
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:32
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: comments.php:14
+msgid "Reply"
+msgstr "Ответить"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Это запись защищена паролем. Введите пароль для просмотра комментариев."
+
+#: archive.php:13
+msgid "Blog Archive"
+msgstr "Архив блога"
+
+#: archive.php:11
+msgid "Yearly Archive"
+msgstr "Архив за год"
+
+#: archive.php:9
+msgid "Monthly Archive"
+msgstr "Архив за месяц"
+
+#: archive.php:7
+msgid "Daily Archive"
+msgstr "Архив за день"
+
+#: 404.php:20
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Мы сожалеем, но страница, которую вы ищете, не существует."
+
+#: 404.php:19
+msgid "Oops! Page not found"
+msgstr "Упс! Страница не найдена"
+
+#: 404.php:9 404.php:18
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#. Author URI of the plugin/theme
+msgid "http://webriti.com/"
+msgstr "http://webriti.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/corpbiz-lite-version-detail-page/"
+msgstr "http://webriti.com/corpbiz-lite-version-detail-page/"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
